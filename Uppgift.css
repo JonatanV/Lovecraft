@@ -1,0 +1,53 @@
+    body{
+        background-color: black;
+        color: white;
+    }
+    main{
+      width: 60%;
+      margin: 0 auto;
+    } 
+  h1,h2,h3,h4 {
+    font-family:'Oswald', sans-serif;
+    font-size: 3em;
+    text-align: center;
+     }
+    p{
+        font-family:'Merryweather' , serif;
+    }
+    blockquote{
+        font-family:'Dancing Script' , cursive;
+    }
+    .signature{
+        font-weight: Bold;
+     }
+    #chapter1{
+        
+    }
+    img{
+    float: right;
+    width: 400px;
+    margin: 10px
+   
+    }
+.topnav{
+    background-color: white;
+    overflow: hidden;
+    
+}
+.topnav a{
+float: left;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+}
+.topnav a:hover{
+    background-color:black;
+    color: white;
+}
+.topnav a:active{
+     background-color:black;
+    color: white;
+}
