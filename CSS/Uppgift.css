@@ -15,10 +15,11 @@
         font-family:'Merryweather' , serif;
     }
     blockquote{
-        font-family:'Dancing Script' , cursive;
+        font-family: 'Dancing Script', cursive;
     }
     .signature{
         font-weight: Bold;
+        font-family: 'Dancing Script', cursive;
      }
     #chapter1{
         
@@ -50,4 +51,7 @@ float: left;
 .topnav a:active{
      background-color:black;
     color: white;
+}
+html {
+    scroll-behavior: smooth;
 }
